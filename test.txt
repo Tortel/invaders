@@ -1,0 +1,6 @@
+<Scores>
+<Score>
+<name>null</name>
+<val>2420</val>
+</Score>
+</Scores>
